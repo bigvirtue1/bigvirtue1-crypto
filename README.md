@@ -36,3 +36,6 @@ BIGVirtue1은 세계에서 가장 강력한 비공식 개인정보 보호 암호
 BIGVirtue1은 사용자가 외부 인증이나 인증 없이 암호화 키를 완벽하게 제어할 수 있도록 설계되어 진정한 개인적이고 안전한 솔루션입니다.
 
 자세한 내용은 GitHub 저장소를 방문해 주세요. https://github.com/bigvirtue1/bigvirtue1-crypto
+
+<img width="1536" height="1024" alt="bigvirtue1" src="https://github.com/user-attachments/assets/d08cad54-3a02-4f8f-a650-28c6398208ad" />
+
