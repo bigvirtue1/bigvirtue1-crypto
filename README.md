@@ -1,4 +1,30 @@
 # bigvirtue1-crypto
+
+🔔 Design Update / 설계 방향 업데이트 (v1)
+ENGLISH
+This project is currently refining its v1 design.
+The core principle of this project is to separate data encryption from key protection.
+All data is encrypted using a randomly generated symmetric data key (e.g., AES-256-GCM).
+How this data key is protected may vary by version and user choice.
+For v1, the design is as follows:
+Default mode: password-based encryption (no public key input required).
+Optional mode: an external encrypted key file may be used for stronger or portable security.
+No external metadata files are required; all necessary parameters are stored inside the encrypted file.
+Public-key-based encryption (including KEM or post-quantum schemes) is not required in v1 and may be added in future versions without breaking file compatibility.
+The design and implementation details may evolve as the project matures.
+한국어
+이 프로젝트는 현재 v1 설계를 정리·구체화하는 단계에 있습니다.
+본 프로젝트의 핵심 원칙은 데이터 암호화와 키 보호를 분리하는 것입니다.
+모든 데이터는 매번 생성되는 대칭 데이터 키(예: AES-256-GCM)로 암호화됩니다.
+이 데이터 키를 어떻게 보호할지는 버전 및 사용자 선택에 따라 달라질 수 있습니다.
+v1 기준 설계는 다음과 같습니다:
+기본 모드: 비밀번호 기반 암호화 (공개키 입력 없음)
+선택 모드: 이동성과 보안을 강화하기 위한 외부 암호화 키 파일 사용 가능
+외부 메타파일은 사용하지 않으며, 복호화에 필요한 정보는 모두 암호화 파일 내부에 포함됩니다.
+공개키 기반 암호화(KEM, 양자내성 암호 등)는 v1의 필수 요소가 아니며,
+향후 버전에서 파일 호환성을 유지한 채 추가될 수 있습니다.
+설계 및 구현 세부 사항은 프로젝트 진행에 따라 변경될 수 있습니다.
+
 # 🛡️ Bigvirtue1: The Next Generation of Quantum-Resistant Stealth Security
 
 > **"Security should be powerful, yet intuitive. High-end protection for everyone, for free."**
