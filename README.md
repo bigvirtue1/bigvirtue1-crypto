@@ -1,4 +1,18 @@
-# bigvirtue1-crypto
+# bigvirtue1/crypto
+
+## 🔐 Crypto
+
+> **Personal encryption with a future-proof key design**  
+> 미래 확장을 고려한 개인용 암호화 프로젝트
+
+- 📦 Data is encrypted using a **random symmetric data key per file**
+- 🔑 Key protection is **modular and versioned**
+- 🔐 **Default**: password-based encryption (no public key input)
+- 🗝 **Optional**: encrypted external key file for portability
+- 📄 No external metadata files (everything is self-contained)
+
+> Public-key and post-quantum schemes may be added later  
+> **without breaking file compatibility**.
 
 ## 🔐 Crypto – Design Update (v1)
 
