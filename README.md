@@ -1,41 +1,34 @@
 # bigvirtue1-crypto
-Bigvirtue1 Unofficial World's No.1 Privacy Encryption Program 대덕 비공식 세계 1 개인정보 보호 암호화 프로그램
-# Introducing the BIGVIRTUE1 Privacy Encryption Program
+# 🛡️ Bigvirtue1: The Next Generation of Quantum-Resistant Stealth Security
 
-# BIGVIRTUE1 is the world's most powerful unofficial privacy protection encryption program.
+> **"Security should be powerful, yet intuitive. High-end protection for everyone, for free."**
 
-It uses advanced public and private key cryptography to ensure the highest level of security and safety for your personal data.
+## 📢 Official Roadmap: Free Release Announcement (Within 6 Months)
+I am pleased to announce that a professional-grade version of the **Bigvirtue1 Encryption Program** will be released for free within the next 6 months. This release focuses on the "Self-Extracting EXE" format to ensure that top-tier security is accessible to everyone, anywhere, without complex installations.
 
-### Key Features:
+### ✨ Key Features of the Upcoming Free Release
+* **Self-Extracting EXE:** Encrypt your data into a single executable file that can be decrypted on any machine without the Bigvirtue1 program installed.
+* **7-Layer Protection (Auto-Active):** Even in the free version, a 7-layer defense code automatically activates during password entry to prevent plain-text exposure.
+* **9-Layer Internal Security:** Managed by 2 passwords and 1 password file, the system internally operates 9 layers of automated seeds, tokens, and keys.
+* **Zero-Trace On-Screen Viewing:** Decrypt and view memos or photos **on-screen only**. No traces are left on the hard drive, ensuring absolute privacy.
+* **Drag & Drop Simplicity:** Encrypt and manage files instantly with a simple drag-and-drop interface.
 
-- Supports multiple 16384-bit main and external private keys.
+### 🤝 A Message to the Developer Community
+Bigvirtue1 does not aim to compete with existing encryption tools. Our goal is to contribute to the global security ecosystem by providing a new standard of **"Trace-Free Visibility"** and **"Seamless Security Portability."** We hope this project inspires other developers and enhances the safety of digital information for everyone.
 
-- Enables encryption and decryption using user-selected private keys with password protection.
-- Incorporates time-based encryption enhancements for improved security.
-- Uses strong AES-256 encryption for data confidentiality.
-- Portable and obfuscated program with USB copy protection.
+---
 
-BIGVIRTUE1 is designed to offer users complete control over their encryption keys without requiring external verification or certification, making it a truly private and secure solution.
+## 📢 공식 무료 공개 로드맵 안내 (6개월 이내)
+향후 6개월 이내에 상용 프로그램급의 성능을 갖춘 **Bigvirtue1 암호화 프로그램**을 무료로 공개할 예정입니다. 이번 공개는 "EXE 자동 풀림" 형식을 통해 복잡한 설치 없이도 누구나 어디서든 세계 최고 수준의 보안을 누리는 데 중점을 둡니다.
 
-For more details, please visit our GitHub repository. https://github.com/bigvirtue1/bigvirtue1-crypto
+### ✨ 무료 공개 버전의 주요 핵심 기능
+* **EXE 자동 풀림:** 프로그램 설치 없이도 단일 실행 파일만으로 원본 데이터를 안전하게 복호화할 수 있습니다.
+* **7중 자동 보호막:** 무료 버전임에도 비밀번호 입력 시 7중 보호 코드가 자동 작동하여 단 1글자의 평문 노출도 허용하지 않습니다.
+* **9중 내부 레이어:** 2개의 비밀번호와 1개의 비밀번호 파일로 관리되며, 내부적으로는 9개의 자동 난수 및 키 레이어가 입체적으로 작동합니다.
+* **화면 전용 무흔적 열람:** 메모와 사진을 오직 **화면상에서만** 복호화하여 볼 수 있습니다. 하드디스크에 흔적을 남기지 않는 완전 무흔적 기술을 구현합니다.
+* **드래그 앤 드롭:** 복잡한 과정 없이 드래그 앤 드롭만으로 즉시 암호화 및 관리가 가능합니다.
 
-# BIGVITURUE1 개인정보 암호화 프로그램 소개
+### 🤝 개발자 커뮤니티에 전하는 메시지
+Bigvirtue1은 기존의 암호화 프로그램들과 경쟁하기보다, **"열람 시의 무흔적"**과 **"보안의 연속성"**이라는 새로운 가치를 공유하고자 합니다. 이 프로젝트가 보안 생태계에 긍정적인 영감을 주고, 전 세계 사용자의 정보를 보호하는 데 기여하기를 바랍니다.
 
-BIGVirtue1은 세계에서 가장 강력한 비공식 개인정보 보호 암호화 프로그램입니다.
-
-고급 공개 및 개인 키 암호화를 사용하여 개인 데이터에 대한 최고 수준의 보안과 안전을 보장합니다.
-
-### 주요 특징:
-
-- 여러 개의 16384비트 메인 및 외부 개인 키를 지원합니다.
-- 비밀번호 보호 기능이 있는 사용자가 선택한 개인 키를 사용하여 암호화 및 복호화를 가능하게 합니다.
-- 보안을 향상시키기 위해 시간 기반 암호화 향상을 통합합니다.
-- 데이터 기밀성을 위해 강력한 AES-256 암호화를 사용합니다.
-- USB 복사 방지 기능이 있는 휴대용 및 난독화 프로그램.
-
-BIGVirtue1은 사용자가 외부 인증이나 인증 없이 암호화 키를 완벽하게 제어할 수 있도록 설계되어 진정한 개인적이고 안전한 솔루션입니다.
-
-자세한 내용은 GitHub 저장소를 방문해 주세요. https://github.com/bigvirtue1/bigvirtue1-crypto
-
-<img width="1536" height="1024" alt="bigvirtue1" src="https://github.com/user-attachments/assets/d08cad54-3a02-4f8f-a650-28c6398208ad" />
 
