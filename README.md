@@ -1,5 +1,10 @@
 # bigvirtue1/crypto
 
+⚠️ This repository is NOT the main Bigvirtue1 project.
+
+For the official and actively maintained version, visit:
+👉 https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god
+
 ## 🔐 Crypto
 
 > **Personal encryption with a future-proof key design**  
